@@ -46,7 +46,7 @@
         .btn-login {
             width: 100%;
             border-radius: 20px;
-            background-color: #007bff;
+            background-color: #24ad37;
             color: #fff;
         }
 
@@ -65,11 +65,11 @@
         <form>
             <div class="form-group">
                 <label for="username">Username</label>
-                <input type="text" class="form-control" id="username" placeholder="Enter username">
+                <input type="text" class="form-control" id="username" placeholder="Masukan username">
             </div>
             <div class="form-group">
                 <label for="password">Password</label>
-                <input type="password" class="form-control" id="password" placeholder="Enter password">
+                <input type="password" class="form-control" id="password" placeholder="Masukan password">
             </div>
             <button type="submit" class="btn btn-login">Login</button>
         </form>
